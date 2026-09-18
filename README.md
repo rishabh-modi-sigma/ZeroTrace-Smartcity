@@ -10,7 +10,7 @@ xgboost
 joblib
 
 # Database
-uav_carbonnn_emission_dataset
+uav_carbonnn_emission_dataset.csv 
 
 # Problem statement
 To develop an AI-powered Smart City system that analyzes environmental and air-quality data to identify pollution risks, detect high-risk areas, and provide actionable health-awareness insights for citizens and authorities.
