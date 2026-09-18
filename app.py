@@ -15,6 +15,9 @@ st.write(
     "Enter sensor and environmental details to predict the emission level."
 )
 
+import joblib
+
+model = joblib.load("model.pkl")
 
 # ---------- Load Model, Scaler & Columns ----------
 @st.cache_resource
