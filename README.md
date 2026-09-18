@@ -29,4 +29,5 @@ Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Streamlit | Mong
 # sytstem Architecture
 Data → Preprocessing → ML Model → Risk Prediction → Dashboard → Alerts & Health Insights
 
-
+# How To Run A Porgram
+jupyter lab notebook 
