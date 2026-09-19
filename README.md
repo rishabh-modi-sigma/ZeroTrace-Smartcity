@@ -31,3 +31,6 @@ Data → Preprocessing → ML Model → Risk Prediction → Dashboard → Alerts
 
 # How To Run A Porgram
 jupyter lab notebook 
+
+# Project Demo / App Link
+https://zerotrace-smartcity-ftgycyt24xuxpcstafms8f.streamlit.app/
